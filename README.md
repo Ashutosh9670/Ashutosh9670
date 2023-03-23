@@ -31,11 +31,9 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 <br/>
 
 
-- ❤️ [Developer](https://github.com/aman9113) by passion. 
-- 🔭 I’m currently working on venture [RoomCares](https://www.facebook.com/roomcares/).
-- 🌱 I’m currently learning more about Cyber Security,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
+- ❤️ [Developer](https://github.com/Ashutosh9670/Ashutosh9670) by passion. 
+- 🌱 I’m currently learning more about Data Science,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
-- 🤔 I’m looking for help with Room Care's.
 - 💬 Ask me about Development or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn- @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/) , [leetcode-@aman9113](https://leetcode.com/aman9113/)
 - 😄 Pronouns: He/His    
