@@ -35,7 +35,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 - 🌱 I’m currently learning more about Data Science,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
 - 💬 Ask me about Development or any tech related stuff.
-- 📫 How to reach me: [Twitter - @Aaman0008](https://twitter.com/Aaman0008) , [LinkidIn- @AmanSingh](https://www.linkedin.com/in/aman-singh-484549202/) , [leetcode-@aman9113](https://leetcode.com/aman9113/)
+- 📫 How to reach me: [Twitter - @Ashutos2048](https://twitter.com/Ashutos2048) , [LinkidIn- @AshutoshSingh](https://www.linkedin.com/in/ashutosh-singh-3b1265184/) , [leetcode-@ashutosh9670](https://leetcode.com/Ashutosh9670/)
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 6-8 hours listening podcasts & Music everyday.        
            
