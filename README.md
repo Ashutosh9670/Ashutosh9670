@@ -13,8 +13,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 <a href="https://www.linkedin.com/in/ashutosh-singh-3b1265184/">
   <img align="left" alt="Ashutosh Singh Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/aman9113/">
-  <img align="left" alt="aman9113's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Ashutosh9670">
+  <img align="left" alt="ashutosh960 Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/__amansingh__0008/">
   <img align="left" alt="Aman Singh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
