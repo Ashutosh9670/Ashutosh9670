@@ -41,7 +41,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
            
  
  [![Twitter: AshutoshSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
-[![Linkedin: AshutoshSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-3b1265184/)]
+[![Linkedin: AshutoshSingh](https://img.shields.io/badge/-ashutoshsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-3b1265184/)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__amansingh__0008/) 
 [![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
 [![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
