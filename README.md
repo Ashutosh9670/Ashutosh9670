@@ -33,15 +33,15 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 
 - ❤️ [Developer](https://github.com/Ashutosh9670/Ashutosh9670) by passion. 
 - 🌱 I’m currently learning more about Data Science,JavaScript developer,ReactJS developer, Web Development Enthusiastic.
-- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18575240/aman-singh).
+- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/18734723/ashutosh-singh).
 - 💬 Ask me about Development or any tech related stuff.
 - 📫 How to reach me: [Twitter - @Ashutos2048](https://twitter.com/Ashutos2048) , [LinkedIn- @AshutoshSingh](https://www.linkedin.com/in/ashutosh-singh-3b1265184/) , [leetcode-@ashutosh9670](https://leetcode.com/Ashutosh9670/)
 - 😄 Pronouns: He/His    
 - ⚡ Fun fact: I spend almost 6-8 hours listening podcasts & Music everyday.        
            
  
-[![Twitter: AamanSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
-[![Linkedin: AmanSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-3b1265184/)]
+ [![Twitter: AshutoshSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
+[![Linkedin: AshutoshSingh](https://img.shields.io/badge/-amansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-3b1265184/)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__amansingh__0008/) 
 [![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
 [![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
@@ -65,7 +65,7 @@ https://aman9113.github.io/portfolio_website/)
 
 ## 💳 Github Profile Summary Card
 <p align="fitscreen">
-  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman9113&theme=vue"/>
+  <img height= "237 em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh9670&theme=vue"/>
 </p>
 
 
