@@ -40,13 +40,12 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Web Dev
 - ⚡ Fun fact: I spend almost 6-8 hours listening podcasts & Music everyday.        
            
  
- [![Twitter: AshutoshSingh](https://img.shields.io/twitter/follow/AamanSingh?style=social)](https://twitter.com/Aaman0008)
+ 
 [![Linkedin: AshutoshSingh](https://img.shields.io/badge/-ashutoshsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-singh-3b1265184/)]
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__amansingh__0008/) 
-[![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
-[![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/aman9113)
-[![website](https://img.shields.io/badge/Portfolio-aman.tech-2648ff?style=flat-square&logo=google-chrome)](
-https://aman9113.github.io/portfolio_website/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ashutosh_thakur2001/) 
+[![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/Ashutosh9670)
+[![GitHub aman9113](https://img.shields.io/github/followers/aman9113?label=follow&style=social)](https://github.com/Ashutosh9670)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -56,7 +55,7 @@ https://aman9113.github.io/portfolio_website/)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
-<a href="https://github.com/aman9113">
+<a href="https://github.com/Ashutosh9670">
 <img height="114em"src="https://github-readme-stats.vercel.app/api?username=aman9113&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <img height="114em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aman9113&layout=compact&langs_count=6&theme=algolia"/>
